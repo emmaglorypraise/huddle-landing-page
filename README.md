@@ -1,5 +1,7 @@
 # Frontend Mentor - Huddle landing page with single introductory section
 
+My live link: https://huddle-landing-page-giipee.netlify.app/
+
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
